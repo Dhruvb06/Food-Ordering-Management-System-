@@ -21,5 +21,6 @@ This is an option to exit the application.
 
 ## :fries: LOGIN CREDENTIALS
 
-__Username : dhruv
-__Password : bansal
+Username : dhruv
+
+Password : bansal
